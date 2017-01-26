@@ -1,3 +1,3 @@
 # ExCovExample
 
-![ScreenShot](screenshot.jpg?raw=true "ScreenShot")
+![ScreenShot](screenshot.png?raw=true "ScreenShot")
